@@ -4,5 +4,5 @@
         "PreferredName": "John",
         "TeamName": "Great White Buffalos",
         "SeatLocation": "9-2",
-        "Roles": ["Developer", "Product Architect"]
+        "Roles": ["Developer", "Product Owner"]
 }
